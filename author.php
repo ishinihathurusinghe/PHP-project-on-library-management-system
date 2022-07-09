@@ -173,7 +173,7 @@ include '../header.php';
 
 	<ol class="breadcrumb mt-4 mb-4 bg-light p-2 border">
 		<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
-        <li class="breadcrumb-item"><a href="author.php">Author Management</a></li>
+        <li class="breadcrumb-item"><a href="author.php">Author Management page</a></li>
         <li class="breadcrumb-item active">Add Author</li>
     </ol>
 
